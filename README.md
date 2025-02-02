@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 😄 I’m currently working on something cool
+- 🌱 I’m currently learning to upgrade my skills
+- ⚡ Looking forward to new Opportunities
 
 <!--
 **Sarvani300597/Sarvani300597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
